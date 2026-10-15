@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "me",
+            "request": "launch",
+            "mainClass": "me",
+            "projectName": "java project_d4013c96"
+        },
+        {
+            "type": "java",
+            "name": "Run active Java file",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}"
+        }
+    ]
+}
